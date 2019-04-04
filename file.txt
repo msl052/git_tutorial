@@ -1,1 +1,3 @@
-I am learning git.
+I am learning git. 
+
+Yo, What up nerds. This is git tutorial.
